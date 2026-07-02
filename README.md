@@ -25,6 +25,8 @@ privileage-Escalation-Detection-Project/
 └── README.md
 ```
 
+> Note: Update this tree if there are additional folders/files (e.g., a `dataset/`, `model/`, or `requirements.txt`) not reflected here.
+
 ## ⚙️ Tech Stack
 
 - **Language:** Python
@@ -93,7 +95,4 @@ python <main_script_name>.py
 - Real-time integration with live cloud audit logs (AWS CloudTrail, Azure Monitor, etc.)
 - Automated mitigation via IAM policy updates
 - Extend detection to additional attack vectors beyond privilege escalation
-
-
-
 
